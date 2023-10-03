@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\横内弘汰\Downloads\GE3_Start (1)\GE3_Start\DirectXGame\x64\Debug\DirectXGame.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\横内弘汰\Downloads\GE3_Start (1)\GE3_Start\DirectXGame\x64\Debug\BasicPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\横内弘汰\Downloads\GE3_Start (1)\GE3_Start\DirectXGame\x64\Debug\BasicVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
